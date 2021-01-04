@@ -1,9 +1,10 @@
 import './App.css';
+import Start from './components/StartButton.js'
 
 function App() {
   return (
     <div className="App">
-      <h1>hola soy la mera vergaaa</h1>
+      <Start />
     </div>
   );
 }
